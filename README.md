@@ -9,7 +9,8 @@
   - [RestAPI with NodeJS and Express](https://github.com/jsmccaffrey)
 
 <h2>📃 Certifications</h2>
-  - [CompTIA A+](https://www.comptia.org/certifications/a)
+
+- [CompTIA A+](https://www.comptia.org/certifications/a)
 
 <h2> 🤳 Connect with me:</h2>
 
