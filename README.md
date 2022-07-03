@@ -10,7 +10,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](https://www.linkedin.com/in/jsmccaffrey/ target="_blank")
+[LinkedIn](https://www.linkedin.com/in/jsmccaffrey/)
 <img align="left" alt="JamesSMcCaffrey | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
