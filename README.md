@@ -1,6 +1,6 @@
 <h1>Hi, I'm James! <br/> Aspiring Software Engineer</h1>
 
-<h2>👨‍💻 Software Development and Cybersecurity Projects:</h2>
+<h2>👨‍💻 Software Development and Information Technology Projects:</h2>
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/jsmccaffrey)
