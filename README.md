@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! <br/> Aspiring Software Engineer</h1>
+<h1>Hi, I'm James!</h1>
 
 <h2>👨‍💻 Software Development and Information Technology Projects:</h2>
 
