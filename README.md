@@ -11,6 +11,7 @@
 <h2>📃 Certifications</h2>
 
 - [CompTIA A+](https://www.comptia.org/certifications/a)
+- [CompTIA Network+](https://www.comptia.org/certifications/network)
 
 <h2> ☎️ Connect with me:</h2>
 
