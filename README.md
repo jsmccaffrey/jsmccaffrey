@@ -2,9 +2,11 @@
 
 <h2>👨‍💻 Software Development and Information Technology Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/jsmccaffrey)
+- <b>Home Lab</b>
+  - [Active Directory Bulk User Creation with Powershell](https://github.com/jsmccaffrey)
+- <b>Cybersecurity</b>
   - [File Integrity Monitor](https://github.com/jsmccaffrey)
+  - [Azure Sentinel (SIEM)](https://github.com/jsmccaffrey)
 - <b>Web Applications</b>
   - [RestAPI with NodeJS and Express](https://github.com/jsmccaffrey)
 
