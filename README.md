@@ -25,7 +25,8 @@
 
 <h2> ☎️ Connect with me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/jsmccaffrey/)
+- [LinkedIn](https://www.linkedin.com/in/jsmccaffrey/)  
+- [My Resume](https://www.linkedin.com/in/jsmccaffrey/)
 
 
 <!--
