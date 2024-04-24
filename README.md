@@ -12,7 +12,7 @@
 <h2>💾 Information Technology Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Active Directory Bulk User Creation with Powershell](https://github.com/jsmccaffrey)
+  - [Active Directory Bulk User Creation with Powershell](https://github.com/jsmccaffrey/Active-Directory)
 - <b>Cybersecurity</b>
   - [File Integrity Monitor](https://github.com/jsmccaffrey/File-Integrity-Monitor)
   - [Azure Sentinel (SIEM)](https://github.com/jsmccaffrey)
