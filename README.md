@@ -5,9 +5,9 @@
 - <b>Web Development</b>
   - [Portfolio Website](https://github.com/jsmccaffrey/Personal-Website)
 - <b>Game Dev</b>
-  - [Tower Defense](https://github.com/jsmccaffrey)
+  - [Tower Defense (WIP)](https://github.com/jsmccaffrey)
 - <b>Mobile Dev</b>
-  - [iOS Habit Tracker](https://github.com/jsmccaffrey)
+  - [iOS Habit Tracker (WIP)](https://github.com/jsmccaffrey)
 
 <h2>💾 Information Technology Projects:</h2>
 
@@ -16,17 +16,17 @@
 - <b>Cybersecurity</b>
   - [File Integrity Monitor](https://github.com/jsmccaffrey/File-Integrity-Monitor)
   - [Azure Sentinel (SIEM)](https://github.com/jsmccaffrey)
-  - [Keylogger with Email](https://github.com/jsmccaffrey)
+  - [Keylogger with Email](https://github.com/jsmccaffrey/Keylogger-With-Email)
 
 <h2>📃 Certifications</h2>
 
 - [CompTIA A+](https://www.comptia.org/certifications/a)
-- [CompTIA Network+](https://www.comptia.org/certifications/network)
+- [CompTIA Network+ (Currently Studying)](https://www.comptia.org/certifications/network)
 
 <h2> ☎️ Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/jsmccaffrey/)  
-- [My Resume](https://www.linkedin.com/in/jsmccaffrey/)
+- [My Resume](https://www.linkedin.com/in/jsmccaffrey/Resume)
 
 
 <!--
