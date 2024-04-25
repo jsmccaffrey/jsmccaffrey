@@ -8,6 +8,12 @@
   - [Tower Defense (WIP)](https://github.com/jsmccaffrey)
 - <b>Mobile Dev</b>
   - [iOS Habit Tracker (WIP)](https://github.com/jsmccaffrey)
+- <b>Other</b>
+  - [Class Roster Program](https://github.com/jsmccaffrey/Class-Roster)
+  - [Web-Based Spring Inventory Application](https://github.com/jsmccaffrey/Inventory-Application)
+  - [Spring Framework Java Back End](https://github.com/jsmccaffrey/Spring-Backend)
+  - [Multithreaded Spring Application for Docker](https://github.com/jsmccaffrey/Multithreaded-App-for-Docker)
+
 
 <h2> 💾 Information Technology Projects:</h2>
 
