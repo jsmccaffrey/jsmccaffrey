@@ -27,7 +27,7 @@
 <h2> 📃 Certifications</h2>
 
 - [CompTIA A+](https://www.comptia.org/certifications/a)
-- [CompTIA Network+ (Currently Studying)](https://www.comptia.org/certifications/network)
+- [CompTIA Network+ (In Progress)](https://www.comptia.org/certifications/network)
 
 <h2> ☎️ Connect with me:</h2>
 
