@@ -20,8 +20,8 @@
 - <b>Home Lab</b>
   - [Active Directory Bulk User Creation with Powershell](https://github.com/jsmccaffrey/Active-Directory)
 - <b>Cybersecurity</b>
+  - [Azure Sentinel (SIEM) with World Map](https://github.com/jsmccaffrey/Azure-Sentinel)
   - [File Integrity Monitor](https://github.com/jsmccaffrey/File-Integrity-Monitor)
-  - [Azure Sentinel (SIEM)](https://github.com/jsmccaffrey/Azure-Sentinel)
   - [Keylogger with Email](https://github.com/jsmccaffrey/Keylogger-With-Email)
 
 <h2> 📃 Certifications</h2>
